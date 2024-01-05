@@ -1,0 +1,25 @@
+Sign in/create new user
+   
+create new user:
+pushes an array and adds the new user
+pushes an array and adds the password
+ 
+sign in:
+for loop and if statement checking if the input is equal to the username and password and iterating through the arrays
+  
+  
+after sign in or 'creat new user':
+user will be taken to a library where there are several tops like : fiction, non- fiction, science, math, etc. 
+  
+These topics will be numbered from 1 to ::
+ 
+The user will then type that number to go into that library and choose the books that will be numbered again
+ 
+A while loop will make sure to ask them to check out any other books
+
+A number certain number input by the user will exit them from the library and take them to the topics sections
+
+
+for log in
+boolean logIn must be true
+set true by comparing username input 
